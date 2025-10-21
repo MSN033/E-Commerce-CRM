@@ -1,0 +1,11 @@
+CustomerID,Name,Email,Phone,Address,CreatedAt
+1,Alice Johnson,alice.johnson@example.com,+1-202-555-0143,"123 Elm Street, Springfield, IL",2025-09-01 10:15:00
+2,Bob Smith,bob.smith@example.com,+1-202-555-0172,"456 Oak Avenue, Lincoln, NE",2025-09-02 14:22:00
+3,Carla Rivera,carla.rivera@example.com,+1-202-555-0198,"789 Pine Road, Austin, TX",2025-09-03 09:45:00
+4,David Chen,david.chen@example.com,+1-202-555-0134,"321 Maple Lane, Seattle, WA",2025-09-04 16:30:00
+5,Ella Martinez,ella.martinez@example.com,+1-202-555-0189,"987 Birch Blvd, Miami, FL",2025-09-05 13:10:00
+6,Faisal Khan,faisal.khan@example.com,+1-202-555-0112,"654 Cedar Street, Denver, CO",2025-09-06 11:55:00
+7,Grace Lee,grace.lee@example.com,+1-202-555-0167,"258 Aspen Way, San Diego, CA",2025-09-07 08:20:00
+8,Henry Adams,henry.adams@example.com,+1-202-555-0151,"369 Walnut Circle, Phoenix, AZ",2025-09-08 12:40:00
+9,Isla Patel,isla.patel@example.com,+1-202-555-0125,"147 Palm Drive, Orlando, FL",2025-09-09 17:05:00
+10,Jack Thompson,jack.thompson@example.com,+1-202-555-0149,"753 Redwood St, Portland, OR",2025-09-10 15:25:00
