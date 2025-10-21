@@ -19,6 +19,5 @@ https://www.figma.com/board/RtZa5j4iuzk1vcurEIIcZh/CRM?node-id=0-1&t=Y0DMzblmyc9
 ## 📂 Project Structure
 
 - FigJam link – ER Diagram
-- schema.sql – Table creation script
-- queries.sql – Example SQL queries
+- query.sql – Example SQL queries
 - README.md – Documentation
