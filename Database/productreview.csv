@@ -1,0 +1,6 @@
+ReviewID,CustomerID,ProductID,Rating,Comment,ReviewDate
+1,1,2,5,Great mouse, very responsive.,2025-10-05
+2,5,1,4,Notebook is good quality.,2025-10-06
+3,3,5,5,Sturdy and useful laptop stand.,2025-10-07
+4,2,7,2,Cancelled the order, never used.,2025-10-08
+5,4,3,3,Charges fast but gets hot.,2025-10-09
